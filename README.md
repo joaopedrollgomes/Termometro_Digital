@@ -19,4 +19,4 @@
 <li>1x - Fonte para Breadboard </li>
 
 <h2> Diagrama </h2>
-<img src="C:\Users\JP\Documents\Termometro_Digital\img\img.png" alt="Diagrama mostrando a contrução do termometro">
+<img src=""img/img.png"" alt="Diagrama mostrando a contrução do termometro">
